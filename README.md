@@ -1,6 +1,6 @@
 # Think Backwards — installers & packages
 
-This repo hosts the downloadable installers for **[Think Backwards](https://www.thinkbackwards.app/)**, a Jeopardy-inspired offline-first hot-seat trivia game. The web app itself is the primary way to play — this repo is for users who want a native install without going through their browser.
+This repo hosts the downloadable installers for **[Think Backwards](https://www.thinkbackwards.app/)**, a gameshow-inspired offline-first hot-seat trivia game. The web app itself is the primary way to play — this repo is for users who want a native install without going through their browser.
 
 > **The easiest way to install is straight from your browser.** Open [thinkbackwards.app](https://www.thinkbackwards.app/) in Chrome or Edge and click the install button in the address bar. You get the same experience as the native installs below, without downloading anything from this repo.
 
